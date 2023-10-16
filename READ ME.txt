@@ -1,0 +1,11 @@
+In this project We practice the React State.
+
+We use Stare to tell the React App that something is changed,
+so the UI should change according to the new State.
+
+In expenseItem senario there is a state that changed.
+
+The useState function must called only inside to the
+component functions! Not outside or inside of a nested
+function.
+
